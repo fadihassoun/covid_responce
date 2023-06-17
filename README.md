@@ -2,7 +2,7 @@
 
 COVID-19 Response Website; Specification and Design
 
-The purpose of this document is to provide the government with the design and specification of an informative website on COVID-19 with supportive tools for all citizens. The requirements are defined and mapped onto the necessary features. Also, details about the content, structure, and style of the website are provided.
+The purpose is to provide the government with a website on COVID-19 with supportive tools for all citizens. The requirements are defined and mapped onto the necessary features. Also, details about the content, structure, and style of the website are provided.
 
 Requirements
 
@@ -41,5 +41,33 @@ Compatibility with mobile and desktop devices.
 Accessibility enabled pages as per WCAG requirements [1].
 
 
+Wireframes of typical pages
 
-	
+Landing page:
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/c3f79ce9-56cf-4b73-a125-161b124355da)
+
+Cases page:
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/820ed6f0-baeb-4897-8870-346ccc393494)
+
+
+Guidance page:
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/a33ef890-228c-4fb4-bc2b-c2f4eeda384a)
+
+
+‘Symptoms’ page:
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/665e8f0e-0db3-48a5-a201-372b43de8509)
+
+
+‘Book a test’ page:
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/3076e5c8-1328-4aca-b825-c3d985cdf6a3)
+
+
+![image](https://github.com/fadihassoun/covid_response/assets/97429326/fff1529a-6599-4bfe-80ac-e43d088ae48d)
+
+
+
