@@ -1,11 +1,12 @@
 # covid_response
+
 COVID-19 Response Website; Specification and Design
 
-The purpose of this document is to provide the Cyprus government with the design and specification of an informative website on COVID-19 with supportive tools for all citizens. The requirements are defined and mapped onto the necessary features. Also, details about the content, structure, and style of the website are provided.
+The purpose of this document is to provide the government with the design and specification of an informative website on COVID-19 with supportive tools for all citizens. The requirements are defined and mapped onto the necessary features. Also, details about the content, structure, and style of the website are provided.
 
 Requirements
 
-Through this website, the government’s main goal is to safeguard citizens’ lives and limit the spread of the virus by:
+Through this website, the main goal is to safeguard citizens’ lives and limit the spread of the virus by:
 Providing citizens with information on the current situation and protective guidelines.
 Testing suspected cases to isolate and help infected individuals.
 
